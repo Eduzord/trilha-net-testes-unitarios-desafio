@@ -88,7 +88,7 @@ public class ValidacoesListaTests
     public void DeveRetornarOitoNegativoComoMenorNumeroDaLista()
     {
         //TODO: Implementar método de teste
-
+        //DONE
         // Arrange
         var lista = new List<int> { 5, -1, -8, 9 };
 
